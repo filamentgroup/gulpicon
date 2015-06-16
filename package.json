@@ -1,0 +1,34 @@
+{
+  "name": "gulp-gulpicon",
+  "version": "0.0.0",
+  "description": "My well-made gulp plugin",
+  "license": "MIT",
+  "repository": "johnbender/gulp-gulpicon",
+  "author": {
+    "name": "John Bender",
+    "email": "john.m.bender@gmail.com",
+    "url": "johnbender.us"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "through2": "^0.6.5",
+    "grunticon-lib": "1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "glob": "^5.0.10",
+    "gulp": "^3.9.0"
+  }
+}
