@@ -4,7 +4,7 @@
   "description": "A gulp task wrapper for grunticon-lib.",
   "license": "MIT",
   "repository": "filamentgroup/gulpicon",
-  "homepage" : "https://github.com/filamentgroup/gulpicon",
+  "homepage" : "https://github.com/filamentgroup/gulpicong",
   "author": {
     "name": "John Bender",
     "email": "john.m.bender@gmail.com",
@@ -16,9 +16,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "files": [
-    "tasks"
-  ],
   "keywords": [
     "gulpplugin"
   ],
