@@ -22,4 +22,4 @@ gulp.task("icons", gulpicon(files, config));
 
 ## TODO
 
-1. Move to operation on stream of files, requires alterations to `grunticon-lib`.
+1. Move to plugin/operation on stream of files, requires alterations to `grunticon-lib`. 
