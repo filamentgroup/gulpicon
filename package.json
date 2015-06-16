@@ -1,7 +1,7 @@
 {
-  "name": "gulp-gulpicon",
+  "name": "gulpicon",
   "version": "0.0.0",
-  "description": "My well-made gulp plugin",
+  "description": "A gulp task wrapper for grunticon-lib.",
   "license": "MIT",
   "repository": "johnbender/gulp-gulpicon",
   "author": {
@@ -16,13 +16,13 @@
     "test": "mocha"
   },
   "files": [
-    "index.js"
+    "tasks"
   ],
   "keywords": [
     "gulpplugin"
   ],
   "dependencies": {
-    "gulp-util": "^3.0.4",
+    "gulp-util": "^3.0.5",
     "through2": "^0.6.5",
     "grunticon-lib": "1.0.2"
   },
