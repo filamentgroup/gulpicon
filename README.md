@@ -7,7 +7,7 @@ A [gulp](https://github.com/gulpjs/gulp) task wrapper for [grunticon-lib](https:
 ```javascript
 var glob = require("glob");
 var gulp = require("gulp");
-var gulpicon = require("./tasks/gulpicon");
+var gulpicon = require("gulpicon/tasks/gulpicon");
 
 // grab the config, tack on the output destination
 var config = require("./example/config.js");
@@ -22,4 +22,4 @@ gulp.task("icons", gulpicon(files, config));
 
 ## TODO
 
-1. Move to plugin/operation on stream of files, requires alterations to `grunticon-lib`. 
+1. Move to plugin/operation on stream of files, requires alterations to `grunticon-lib`.
