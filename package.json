@@ -1,10 +1,10 @@
 {
   "name": "gulpicon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A gulp task wrapper for grunticon-lib.",
   "license": "MIT",
   "repository": "filamentgroup/gulpicon",
-  "homepage" : "https://github.com/filamentgroup/gulpicong",
+  "homepage": "https://github.com/filamentgroup/gulpicong",
   "author": {
     "name": "John Bender",
     "email": "john.m.bender@gmail.com",
