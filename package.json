@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A gulp task wrapper for grunticon-lib.",
   "license": "MIT",
-  "repository": "johnbender/gulp-gulpicon",
+  "repository": "filamentgroup/gulp-gulpicon",
   "author": {
     "name": "John Bender",
     "email": "john.m.bender@gmail.com",
