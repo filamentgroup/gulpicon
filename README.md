@@ -2,6 +2,14 @@
 
 A [gulp](https://github.com/gulpjs/gulp) task wrapper for [grunticon-lib](https://github.com/filamentgroup/grunticon-lib).
 
+## Install
+
+To install to your project and save the dependency in `package.json`:
+
+```
+npm install -s gulpicon
+```
+
 ## Usage
 
 ```javascript
