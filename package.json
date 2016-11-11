@@ -22,7 +22,7 @@
   "dependencies": {
     "gulp-util": "^3.0.5",
     "through2": "^0.6.5",
-    "grunticon-lib": "1.2.0"
+    "grunticon-lib": "^1.2.1"
   },
   "devDependencies": {
     "mocha": "*",
