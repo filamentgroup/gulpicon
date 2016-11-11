@@ -9,7 +9,7 @@ module.exports = function( files, config ) {
 
     // get the config
     config.logger = {
-      verbose: function() {} || config.verbose,
+      verbose: config.verbose || function() {},
       fatal: function() {},
       ok: function() {}
     };
