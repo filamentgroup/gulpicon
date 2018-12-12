@@ -28,6 +28,20 @@ var files = glob.sync("example/svg/*.svg");
 gulp.task("icons", gulpicon(files, config));
 ```
 
+## Sample test
+
+```
+# Checkout the project
+git clone git@github.com:filamentgroup/gulpicon.git
+cd gulpicon
+
+# Run the sample
+npm install
+npx gulp icons
+```
+
+Output will now be in `example/output/`.
+
 ## TODO
 
 1. Move to plugin/operation on stream of files, requires alterations to `grunticon-lib`.
