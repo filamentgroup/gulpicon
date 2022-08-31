@@ -1,3 +1,5 @@
+:warning: This project is archived and the repository is no longer maintained.
+
 # Gulpicon
 
 A [gulp](https://github.com/gulpjs/gulp) task wrapper for [grunticon-lib](https://github.com/filamentgroup/grunticon-lib).
